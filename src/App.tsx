@@ -261,7 +261,7 @@ function ChatPanel({
           </div>
         )}
         {messages?.map((msg: any) => {
-          const isUnread = lastRead !== null ? msg.timestamp > lastRead : true;
+          const isUnread = lastRead != null ? msg.timestamp > lastRead : true;
           return (
             <div
               key={msg._id}
