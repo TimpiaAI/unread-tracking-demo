@@ -82,7 +82,7 @@ export const markAsRead = mutation({
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-blue?style=for-the-badge)](https://unread-tracking-demo.vercel.app)
 
-[![Unread Tracking Demo](./screenshot.png)](https://unread-tracking-demo.vercel.app)
+[![Unread Tracking Demo](https://raw.githubusercontent.com/TimpiaAI/convex-unread-tracking/main/screenshot.png)](https://unread-tracking-demo.vercel.app)
 
 [See the demo in action →](https://unread-tracking-demo.vercel.app)
 
