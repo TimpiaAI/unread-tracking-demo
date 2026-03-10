@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+[![Convex Component](https://www.convex.dev/components/badge/convex-unread-tracking)](https://www.convex.dev/components/convex-unread-tracking)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
